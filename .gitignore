@@ -1,0 +1,8 @@
+.cache
+dist
+node_modules
+.spago
+output
+*.swp
+index.js
+package-lock.json
